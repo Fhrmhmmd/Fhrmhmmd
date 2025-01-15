@@ -1,12 +1,10 @@
-![art](https://github.com/USERNAME/USERNAME/blob/main/art.jpg)
+# Hi, I’m @Fhrmhmmd 👋
 
-- 👋 Hi, I’m @Fhrmhmmd
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning React
-- 📫 How to reach me ...
+![art](https://github.com/Fhrmhmmd/Fhrmhmmd/blob/main/art.jpg)
 
+- 👀 I’m interested in **Front-end Development**
+- 🌱 I’m currently learning **React**
+- 📫 You can reach me via **email**
+  
 
-<!---
-Fhrmhmmd/Fhrmhmmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to explore my repositories and connect with me! 🤝
