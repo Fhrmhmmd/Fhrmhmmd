@@ -1,3 +1,5 @@
+![Banner](https://github.com/USERNAME/USERNAME/blob/main/art.jpg)
+
 - 👋 Hi, I’m @Fhrmhmmd
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning React
