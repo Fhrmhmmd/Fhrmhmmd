@@ -7,7 +7,7 @@
 - 📫 You can reach me via **email**
 
 <hr>
-<h2>🚀 Tech Stack & Tools</h2>
+<h1 align="center">🚀 Tech Stack & Tools</h1>
   
 
 Feel free to explore my repositories and connect with me! 🤝
