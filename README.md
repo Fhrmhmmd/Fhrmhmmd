@@ -10,13 +10,10 @@
 
 ## 🚀 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicon.dev/icons/javascript.svg" alt="JavaScript" width="50" />
-  <img src="https://skillicon.dev/icons/css3.svg" alt="CSS" width="50" />
-  <img src="https://skillicon.dev/icons/html5.svg" alt="HTML" width="50" />
-  <img src="https://skillicon.dev/icons/react.svg" alt="React" width="50" />
-  <img src="https://skillicon.dev/icons/php.svg" alt="PHP" width="50" />
-</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin,cpp,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+</a>
 
 Feel free to explore my repositories and connect with me! 🤝
 
