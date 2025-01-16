@@ -9,11 +9,11 @@
 <hr>
 <h1 align="center">🚀 Tech Stack & Tools</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E" alt="JavaScript" width="50" />
+  <img src="https://img.shields.io/badge/CSS-2965F1?logo=css3&logoColor=white" alt="CSS" width="50" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" width="50" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" width="50" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" width="50" />
 </p>
 
 Feel free to explore my repositories and connect with me! 🤝
