@@ -1,6 +1,7 @@
 # Hi, I’m @Fhrmhmmd 👋
 
-![art](https://c4.wallpaperflare.com/wallpaper/131/578/547/pixel-art-town-city-waneella-hd-wallpaper-preview.jpg)
+![Banner](https://github.com/Fhrmhmmd/Fhrmhmmd/blob/main/banner.jpg)
+
 
 - ### 👀 I’m interested in **Front-end Development**
 - ### 🌱 I’m currently learning **React**
