@@ -1,6 +1,6 @@
 # Hi, I’m @Fhrmhmmd 👋
-- #### 👀 I’m interested in **Front-end Development**
-- #### 🌱 I’m currently learning **React**
+- 👀 I’m interested in **Front-end Development**.
+- 🌱 I’m currently learning **React**.
 
 <hr>
 <div align="center">
