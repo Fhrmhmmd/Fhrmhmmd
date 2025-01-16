@@ -3,9 +3,8 @@
 ![art](https://github.com/Fhrmhmmd/Fhrmhmmd/blob/main/art.jpg)
 
 - 👀 I’m interested in **Front-end Development**
-- 🌱 I’m currently learning **React**
-<li style="font-size:3rem;">
- 📫 You can reach me via **email**</li>
+ 🌱 I’m currently learning **React**
+<li><h2>📫 You can reach me via **fakhrimuhammadzx@gmail.com**</h2></li>
 
 <hr>
 <h1 align="center">🚀 Tech Stack & Tools</h1>
