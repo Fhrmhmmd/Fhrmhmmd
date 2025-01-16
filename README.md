@@ -9,11 +9,11 @@
 <hr>
 <h1 align="center">🚀 Tech Stack & Tools</h1>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" width="50" style="background-color: #f7df1e; padding: 10px; border-radius: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS" width="50" style="background-color: #2965f1; padding: 10px; border-radius: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML" width="50" style="background-color: #e34f26; padding: 10px; border-radius: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" width="50" style="background-color: #61dafb; padding: 10px; border-radius: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg" alt="PHP" width="50" style="background-color: #777bb4; padding: 10px; border-radius: 8px;"/>
+  <img src="https://skillicon.dev/icons/javascript.svg" alt="JavaScript" width="50" style="background-color: #F7DF1E; padding: 10px; border-radius: 8px;" />
+  <img src="https://skillicon.dev/icons/css3.svg" alt="CSS" width="50" style="background-color: #2965F1; padding: 10px; border-radius: 8px;" />
+  <img src="https://skillicon.dev/icons/html5.svg" alt="HTML" width="50" style="background-color: #E34F26; padding: 10px; border-radius: 8px;" />
+  <img src="https://skillicon.dev/icons/react.svg" alt="React" width="50" style="background-color: #61DAFB; padding: 10px; border-radius: 8px;" />
+  <img src="https://skillicon.dev/icons/php.svg" alt="PHP" width="50" style="background-color: #777BB4; padding: 10px; border-radius: 8px;" />
 </p>
 Feel free to explore my repositories and connect with me! 🤝
 
