@@ -11,7 +11,7 @@
 <div align="center">
 <h1>🚀 Tech Stack & Tools</h1>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,tailwind,bootstrap,bulma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,tailwind,bootstrap,webpack" />
 </a
 </div>
 <hr>
