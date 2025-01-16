@@ -10,7 +10,7 @@
 
 ## 🚀 Tech Stack & Tools
 
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,react" />
 </a>
 
