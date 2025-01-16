@@ -8,7 +8,7 @@
 
 <hr>
 <div align="center">
-# 🚀 Tech Stack & Tools
+<h1>🚀 Tech Stack & Tool</h1>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,react" />
 </a
