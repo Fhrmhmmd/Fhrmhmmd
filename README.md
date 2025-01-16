@@ -13,6 +13,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,php,react" />
 </a
 </div>
+<hr>
+
 
 Feel free to explore my repositories and connect with me! 🤝
 
