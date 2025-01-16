@@ -2,9 +2,9 @@
 
 ![art](https://github.com/Fhrmhmmd/Fhrmhmmd/blob/main/art.jpg)
 
-- ## 👀 I’m interested in **Front-end Development**
-- ## 🌱 I’m currently learning **React**
-- ## 📫 You can reach me via [fakhrimuhammadzx@gmail.com](mailto:fakhrimuhammadzx@gmail.com)
+- # 👀 I’m interested in **Front-end Development**
+- # 🌱 I’m currently learning **React**
+- # 📫 You can reach me via [fakhrimuhammadzx@gmail.com](mailto:fakhrimuhammadzx@gmail.com)
 
 <hr>
 <div align="center">
