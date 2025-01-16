@@ -10,7 +10,7 @@
 <div align="center">
 <h1>🚀 Tech Stack & Tool</h1>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, js, php, react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,react" />
 </a
 </div>
 <hr>
