@@ -4,7 +4,8 @@
 
 - 👀 I’m interested in **Front-end Development**
 - 🌱 I’m currently learning **React**
-- 📫 You can reach me via **email**
+<li>
+ 📫 You can reach me via **email**</li>
 
 <hr>
 <h1 align="center">🚀 Tech Stack & Tools</h1>
