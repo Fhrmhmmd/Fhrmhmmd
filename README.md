@@ -9,12 +9,11 @@
 <hr>
 <h1 align="center">🚀 Tech Stack & Tools</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" style="background-color: #f7df1e; padding: 10px; border-radius: 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" style="background-color: #2965f1; padding: 10px; border-radius: 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" style="background-color: #e34f26; padding: 10px; border-radius: 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" style="background-color: #61dafb; padding: 10px; border-radius: 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" style="background-color: #777bb4; padding: 10px; border-radius: 5px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" width="50" style="background-color: #f7df1e; padding: 10px; border-radius: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS" width="50" style="background-color: #2965f1; padding: 10px; border-radius: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML" width="50" style="background-color: #e34f26; padding: 10px; border-radius: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" width="50" style="background-color: #61dafb; padding: 10px; border-radius: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg" alt="PHP" width="50" style="background-color: #777bb4; padding: 10px; border-radius: 8px;"/>
 </p>
-
 Feel free to explore my repositories and connect with me! 🤝
 
