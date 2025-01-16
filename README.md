@@ -11,8 +11,7 @@
 ## 🚀 Tech Stack & Tools
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,kotlin,cpp,arduino" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,react" />
 </a>
 
 Feel free to explore my repositories and connect with me! 🤝
