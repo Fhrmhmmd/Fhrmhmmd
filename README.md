@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in **Front-end Development**
 - 🌱 I’m currently learning **React**
-<li style="text-size:2rem;">
+<li style="font-size:3rem;">
  📫 You can reach me via **email**</li>
 
 <hr>
